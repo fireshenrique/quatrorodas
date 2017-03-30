@@ -1,0 +1,14 @@
+/* IMPORTS UTILITIES */
+
+/* Utilities */
+@import "utilities/_global.scss";
+
+/* Code Here */
+
+/* Responsive CSS Query */
+@import "utilities/_header.mobile.scss";
+@import "utilities/_home.mobile.scss";
+
+/* General */
+@import "pages/_home.scss";
+@import "pages/_header.scss";

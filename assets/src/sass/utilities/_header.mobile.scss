@@ -1,0 +1,22 @@
+
+@media screen and (max-width:768px){
+  #navbar{
+    .campo{
+      i{
+        display: none;
+      }
+      .pesquisar{
+        display: none;
+      }
+    }
+      ul{
+        float: none!important;
+        text-align: left!important;
+        padding-left: 2rem;
+        li{
+          border-bottom: 1px solid #c21c1c;
+          display: block!important;
+        }
+      }
+  }
+}

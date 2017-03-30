@@ -1,0 +1,52 @@
+.navbar{
+  background-color: transparent;
+  font-family: 'Dosis', sans-serif;
+  border-bottom: none;
+  .logo{
+    img{
+      float: left;
+      padding: 2rem 0 2rem 1.5rem;
+    }
+  }
+  #navbar{
+    background-color: #ed1c24;
+    .campo{
+      i{
+        position: absolute;
+        right: 11rem;
+        top: 3rem;
+        z-index: 10;
+        font-size: 2.4rem;
+        color: #d3d3d3;
+      }
+      .pesquisar{
+        float: right;
+        position: relative;
+        margin: 2rem 8rem 0 2rem;
+        font-size: 1.2rem;
+        width: 135px;
+        font-family: 'Dosis', sans-serif;
+        padding: 1.5rem 1rem;
+        text-transform: uppercase;
+        border: none;
+        color: #d3d3d3;
+        font-weight: 600;
+      }
+    }
+    ul{
+      padding: 0;
+      margin: 2rem 0 0 0;
+      float: right;
+      li{
+        display: inline-block;
+        padding: 1rem;
+        a{
+          text-transform: uppercase;
+          font-weight: 700;
+          color: #fff;
+          font-size: 1.6rem;
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,155 @@
+@media screen and (min-width:992px) and (max-width:1200px){
+  .conteudo{
+    .destaque{
+      img{
+        width: 960px!important;
+      }
+    }
+  }
+}
+@media screen and (max-width:1306px){
+  .conteudo .inferiores .img-inferior ul{
+    bottom: 11rem!important;
+  }
+}
+@media screen and (max-width:1260px){
+  .submenu{
+    height: auto;
+
+    ul{
+      li{
+        padding: 1rem 0.5rem!important;
+      }
+    }
+  }
+}
+@media screen and (max-width:1160px){
+  .submenu{
+    margin-top: 12.25rem!important;
+  }
+}
+@media screen and (max-width:1020px){
+  .submenu{
+
+    .acessorios{
+      ul{
+        padding-left: 1.5rem!important;
+      }
+    }
+    ul{
+          padding-left: 18rem!important;
+    }
+
+  }
+}
+@media screen and (min-width:768px) and (max-width:991px){
+  .conteudo .direita .img-sub ul{
+    bottom: 5rem!important;
+  }
+}
+@media screen and (max-width:991px){
+  .navbar{
+    background-color: #ed1c24!important;
+  }
+  .submenu{
+    margin-left: 0!important;
+    margin-right: 0!important;
+  }
+  .conteudo{
+    .destaque{
+      img{
+        width: 100%!important;
+      }
+      ul{
+        bottom: 5rem!important;
+        left: 0!important;
+        padding-left: 8rem!important;
+      }
+      h1{
+        left: 0!important;
+        font-size: 3.2rem!important;
+        text-align: left!important;
+        padding-left: 5rem!important;
+      }
+    }
+    .direita{
+      .img-sub{
+        ul{
+          left: 0!important;
+          padding-left: 6rem!important;
+        }
+        h1{
+          left: 0!important;
+          text-align: left;
+          font-size: 2rem!important;
+          padding-left: 5rem!important;
+        }
+      }
+    }
+  }
+}
+@media screen and (max-width:978px){
+  .submenu{
+    height: auto!important;
+  }
+}
+@media screen and (max-width:908px){
+  .submenu{
+        margin-top: 14rem !important;
+  }
+}
+@media screen and (max-width:768px){
+  .submenu{
+        margin-top: 8rem !important;
+  }
+  .conteudo{
+    .destaque{
+      img{
+        width: 100%!important;
+        height: auto!important;
+      }
+      ul{
+        bottom: 6rem!important;
+        left: 0!important;
+        padding-left: 5rem!important;
+
+      }
+      h1{
+        left: 0!important;
+        font-size: 2.5rem!important;
+        text-align: left!important;
+        padding-left: 3rem!important;
+        padding-right: 2rem;
+      }
+
+    }
+    .img-sub{
+      margin-right: 0!important;
+      img{
+        width: 100%!important;
+        height: auto!important;
+      }
+      ul{
+        bottom: 5rem!important;
+      }
+    }
+    .img-sub-2{
+      img{
+        width: 100%!important;
+        height: auto!important;
+      }
+    }
+    .inferiores{
+      .img-inferior{
+        ul{
+          bottom: 11rem!important;
+        }
+        img{
+          width: 100%!important;
+          height: auto!important;
+        }
+      }
+    }
+  }
+
+}
